@@ -1,0 +1,2 @@
+# WorkshopInnerSource
+Workshop for InnerSource
